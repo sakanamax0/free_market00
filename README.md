@@ -40,4 +40,5 @@ Laravel境構築
 
   nginx 1.21.1
 
-ER　![ER図](src/public/images/test.png)
+ER　![ER図](public/images/test.png)
+
