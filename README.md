@@ -40,5 +40,6 @@ Laravel境構築
 
   nginx 1.21.1
 
-ER　![ER図](public/images/test.png)
+ER　![ER図](https://raw.githubusercontent.com/sakanamax0/free_market00/master/public/images/test.png)
+
 
